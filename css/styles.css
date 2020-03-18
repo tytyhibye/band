@@ -1,9 +1,13 @@
 body{
   background: url(https://cdn.mos.cms.futurecdn.net/0be37ce81c973c7b7a9e709dedd017a2-650-80.jpg);
   color: yellow;
+  text-align: center;
 }
-img {
-  
+.img {
+  width: 80px;
+  float: left;
+  margin-left: 33%;
+  /* overflow: hidden; */
 }
 .sidebar {
   width: 20%;
@@ -14,5 +18,14 @@ img {
 }
 .about {
   background-color: rgb(51, 38, 38);
-  border: 2px gray;
+  border: 2px;
+  float: center;
 }
+
+.example {
+  set width & height
+  look into "object fit"
+  apply this class to the <img>
+}
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
