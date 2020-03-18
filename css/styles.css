@@ -6,7 +6,7 @@ body{
 .img {
   width: 80px;
   float: left;
-  margin-left: 33%;
+  margin-left: 10%;
   /* overflow: hidden; */
 }
 .sidebar {
@@ -17,8 +17,20 @@ body{
   padding: 15px;
 }
 .about {
-  background-color: rgb(51, 38, 38);
-  border: 2px;
+  background-color: rgba(51, 38, 38, 0.788);
+  border: 2px solid lightgrey;
+  float: center;
+}
+.button {
+  background-color: rgba(119, 136, 153);
+  border: 10px solid goldenrod;
+  text-align: center;
+  margin-left: 40%;
+  margin-right: 40%;
+}
+.top {
+  background-color: rgba(51, 38, 38, 0.788);
+  border: 2px solid lightgrey;
   float: center;
 }
 
