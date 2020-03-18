@@ -1,0 +1,18 @@
+body{
+  background: url(https://cdn.mos.cms.futurecdn.net/0be37ce81c973c7b7a9e709dedd017a2-650-80.jpg);
+  color: yellow;
+}
+img {
+  
+}
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: rgb(0, 110, 255);
+  border: yellow;
+  padding: 15px;
+}
+.about {
+  background-color: rgb(51, 38, 38);
+  border: 2px gray;
+}
