@@ -33,11 +33,3 @@ body{
   border: 2px solid lightgrey;
   float: center;
 }
-
-.example {
-  set width & height
-  look into "object fit"
-  apply this class to the <img>
-}
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
